@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on NLP and python.
-- 🌱 I’m currently learning c and c++.
-- 📫 How to reach me: dongrixinyu.89@163.com
+- 🌱 I’m interested in text generation and steganography techniques.
+- 📫 How to reach me: tuisaac163@gmail.com
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imkett&theme=buddhism" alt="imkett" /></a> </p>
 
