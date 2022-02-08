@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on NLP and python.
+- 🔭 I’m currently working on NLP and Steganography.
 - 🌱 I’m interested in text generation, variational inference and steganography techniques.
 - 📫 How to reach me: tuisaac163@gmail.com
 
