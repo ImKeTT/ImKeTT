@@ -1,6 +1,6 @@
 ### Hi there, I'm Haoqin Tu 👋
 
-<p align="center"> 
+<p align="left"> 
 Welcome! You are the <img src="https://profile-counter.glitch.me/ImKeTT/count.svg" /> visitor!
 </p>
 
