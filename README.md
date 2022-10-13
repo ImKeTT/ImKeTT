@@ -1,4 +1,4 @@
-### Hi there, I'm Haoqin Tu 👋
+### Hi there, I'm Haoqin Tu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <p align="left"> 
 Welcome! You are the <img src="https://profile-counter.glitch.me/ImKeTT/count.svg" /> visitor!
@@ -7,4 +7,4 @@ Welcome! You are the <img src="https://profile-counter.glitch.me/ImKeTT/count.sv
 - 🔭 I’m currently working on NLP and Steganography.
 - 🌱 I’m interested in Text Generation, Multi-Modal Interaction and Latent Variable Models.
 - 📫 How to reach me: tuisaac163@gmail.com.
-- ⚡ I'm open to collaborations on research, feel free to [email](tuisaac163@gmail.com) me.
+- 👯 I'm open to collaborations on research, feel free to [email](tuisaac163@gmail.com) me.
